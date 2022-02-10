@@ -1,3 +1,3 @@
 ### 💻 Web, Cloud, Application
 
-### ❤️ Python, Go, JS/TS
+### ❤️ Python, Go, JS
