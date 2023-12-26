@@ -1,3 +1,3 @@
 ### 💻 Web & Cloud
 
-### ❤️ Python, Go, JS, Rust
+### ❤️ Python, Rust, JS, Go
